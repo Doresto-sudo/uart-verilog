@@ -17,7 +17,7 @@ first byte, `0x41` (`'A'`), showing the start bit, eight data bits sent
 LSB-first, and the stop bit, with `tx_busy` framing the transmission and
 `rx_valid` pulsing when the byte is recovered:
 
-![UART loopback waveform](docs/Waveform.jpg)
+![UART loopback waveform](docs/Waveform.JPG)
 
 Simulation transcript:
 
