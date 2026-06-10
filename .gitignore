@@ -1,0 +1,11 @@
+# Simulation binaries and dumps
+sim/uart_sim
+sim/*.vcd
+*.out
+*.vvp
+
+# Editor / OS cruft
+.DS_Store
+*.swp
+__pycache__/
+*.pyc
